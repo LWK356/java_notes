@@ -26,7 +26,7 @@
           <mxGeometry height="30" width="220" x="240" y="123" as="geometry" />
         </mxCell>
         <mxCell id="2I7CDJx1VsfhNTF_k3CK-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="项目代码、单元测试" vertex="1">
-          <mxGeometry height="30" width="180" x="230" y="215" as="geometry" />
+          <mxGeometry height="30" width="180" x="240" y="215" as="geometry" />
         </mxCell>
         <mxCell id="2I7CDJx1VsfhNTF_k3CK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试用例、测试报告" vertex="1">
           <mxGeometry height="30" width="170" x="230" y="308" as="geometry" />
