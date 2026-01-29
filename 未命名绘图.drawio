@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
+  <diagram name="第 1 页" id="iL8mfzVIVYsFsVUl6mKh">
+    <mxGraphModel dx="1051" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="需求分析" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="设计" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="编码" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上线运维" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="需求规格说明书、产品原型" vertex="1">
+          <mxGeometry height="30" width="220" x="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UI设计、数据库设、接口设计" vertex="1">
+          <mxGeometry height="30" width="220" x="240" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="项目代码、单元测试" vertex="1">
+          <mxGeometry height="30" width="180" x="230" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试用例、测试报告" vertex="1">
+          <mxGeometry height="30" width="170" x="230" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="软件环境安装、配置" vertex="1">
+          <mxGeometry height="30" width="160" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-11" edge="1" parent="1" source="2I7CDJx1VsfhNTF_k3CK-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2I7CDJx1VsfhNTF_k3CK-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="70" as="sourcePoint" />
+            <mxPoint x="135" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134.5" y="152" as="sourcePoint" />
+            <mxPoint x="134.5" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134.5" y="245" as="sourcePoint" />
+            <mxPoint x="134.5" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2I7CDJx1VsfhNTF_k3CK-14" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134.5" y="340" as="sourcePoint" />
+            <mxPoint x="134.5" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
